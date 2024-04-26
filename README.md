@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Francisco Afonso👋
 
 - 🔭 Estou me licenciando em informática de gestão própriamente me especializando em Web Development: HTML, CSS, JavaScript e Figma, no instituto politécnico de bragança em portugal
-- 🌱 Atualmente estou me aprofundado mais em aprender as linguangen de marcação para poder um dia trabalhar como WEB DEVELOPER
+- 🌱 Atualmente estou me aprofundado mais em aprender as linguangen de marcação para poder um dia trabalhar como WEB DEVELOPMENT
 - 📫 Contacte-me nos seguintes email: franciscoafonso014@gmail.com ou fafonsoficial@gmail.com
 - 😄 Pronouns: ele/dele
 
