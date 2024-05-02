@@ -1,9 +1,20 @@
-### Olá! Eu sou o Francisco Afonso👋
+# Seja bem-vindo(a) ao meu perfil do GitHub!
 
-- 🔭 Estou me licenciando em informática de gestão própriamente me especializando em Web Development: HTML, CSS, JavaScript e Figma, no instituto politécnico de bragança em portugal
-- 🌱 Atualmente estou me aprofundado mais em aprender as linguangen de marcação para poder um dia trabalhar como WEB DEVELOPMENT
-- 📫 Contacte-me nos seguintes email: franciscoafonso014@gmail.com ou fafonsoficial@gmail.com
-- 😄 Pronouns: ele/dele
+### Sobre mim
+
+Sou um profissional em desenvolvimento com interesse em Client-side (Front-End) e Server-side (Back-). No momento, estou aprofundando meus conhecimentos nas seguintes linguagens de programação: JavaScript, PHP e Java.
+
+### Habilidades
+- HTML
+- CSS 
+### Contato
+
+ - GitHub: <a href="https://github.com/fafonsoficial">fafonsoficial</a>
+ - LinkedIn: <a href="https://www.linkedin.com/in/francisco-afonso-1b903b204/">Francisco Afonso</a>
+ - Email: franciscoafonso014@gmail.com ou fafonsoficial@gmail.com
+
+
+Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="fafonso-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
@@ -16,7 +27,6 @@
   <img align="center" alt="fafonso-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />         
 </div>
 
-  ##
 
  
    
