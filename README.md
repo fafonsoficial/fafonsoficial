@@ -9,8 +9,8 @@ Sou um profissional em desenvolvimento com interesse em Client-side (Front-End) 
 - CSS 
 ### Contato
 
- - GitHub: <a href="https://github.com/fafonsoficial" target="_blank">fafonsoficial</a>
- - LinkedIn: <a href="https://www.linkedin.com/in/francisco-afonso-1b903b204/" target="_blank">Francisco Afonso</a>
+ - GitHub: <a href="https://github.com/fafonsoficial" target="_self">fafonsoficial</a>
+ - LinkedIn: <a href="https://www.linkedin.com/in/francisco-afonso-1b903b204/" target="_self">Francisco Afonso</a>
  - Email: franciscoafonso014@gmail.com ou fafonsoficial@gmail.com
 
 
