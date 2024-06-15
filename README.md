@@ -6,7 +6,9 @@ Sou um profissional em desenvolvimento com interesse em Client-side (Front-End) 
 
 ### Habilidades
 - HTML
-- CSS 
+- CSS
+- JavaScript
+- Node.js
 ### Contato
 
  - GitHub: <a href="https://github.com/fafonsoficial" target="_self">fafonsoficial</a>
