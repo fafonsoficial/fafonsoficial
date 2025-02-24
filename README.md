@@ -4,11 +4,14 @@
 
 Sou um profissional em desenvolvimento com interesse em Client-side (Front-End) e Server-side (Back-). No momento, estou aprofundando meus conhecimentos nas seguintes linguagens de programação: JavaScript, PHP e Java.
 
-### Habilidades
+### Habilidades Front-End
 - HTML
 - CSS
 - JavaScript
-- Node.js
+
+###Habilidades Back-End
+- PHP
+- MYSQL
 ### Contato
 
  - GitHub: <a href="https://github.com/fafonsoficial" target="_self">fafonsoficial</a>
