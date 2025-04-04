@@ -14,8 +14,8 @@ Sou um profissional em desenvolvimento com interesse em Client-side (Front-End) 
 - MYSQL
 ### Contato
 
- - GitHub: <a href="https://github.com/fafonsoficial" target="_self">fafonsoficial</a>
- - LinkedIn: <a href="https://www.linkedin.com/in/francisco-afonso/" target="_self">Francisco Afonso</a>
+ - GitHub: <a href="https://github.com/fafonsoficial" target="_blanck">fafonsoficial</a>
+ - LinkedIn: <a href="https://www.linkedin.com/in/francisco-ngonde-afonso/" target="_blanck">Francisco Afonso</a>
  - Email: franciscoafonso014@gmail.com ou fafonsoficial@gmail.com
 
 
